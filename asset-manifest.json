@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c6a8a143.css",
-    "main.js": "/static/js/main.e1a3c71c.js",
+    "main.js": "/static/js/main.f3c3bc31.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/c2.jpg": "/static/media/c2.5c4cf7f3d1d1d8dbeed9.jpg",
     "static/media/IIT_Main_Gate.png": "/static/media/IIT_Main_Gate.37abaad72cf1db3252bb.png",
@@ -37,11 +37,11 @@
     "static/media/dripicons-v2.woff": "/static/media/dripicons-v2.f19dcc0358afed69d277.woff",
     "index.html": "/index.html",
     "main.c6a8a143.css.map": "/static/css/main.c6a8a143.css.map",
-    "main.e1a3c71c.js.map": "/static/js/main.e1a3c71c.js.map",
+    "main.f3c3bc31.js.map": "/static/js/main.f3c3bc31.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6a8a143.css",
-    "static/js/main.e1a3c71c.js"
+    "static/js/main.f3c3bc31.js"
   ]
 }
