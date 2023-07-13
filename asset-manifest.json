@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.1381c29b.css",
-    "main.js": "/static/js/main.002ed484.js",
+    "main.css": "/static/css/main.5d8d78c2.css",
+    "main.js": "/static/js/main.826fee51.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/c2.jpg": "/static/media/c2.5c4cf7f3d1d1d8dbeed9.jpg",
-    "static/media/IIT_Main_Gate.png": "/static/media/IIT_Main_Gate.37abaad72cf1db3252bb.png",
-    "static/media/IIT_Admin_Block.png": "/static/media/IIT_Admin_Block.ee612651e78ad5e47987.png",
     "static/media/fa-duotone-900.svg": "/static/media/fa-duotone-900.f187447b2b172f21a1bb.svg",
     "static/media/fa-light-300.svg": "/static/media/fa-light-300.fd644543ca35b598f64b.svg",
     "static/media/fa-regular-400.svg": "/static/media/fa-regular-400.1a1a47a849afac91e51a.svg",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.8b33fac42c797e9053b7.svg",
+    "static/media/IIT_Admin_Block.png": "/static/media/IIT_Admin_Block.9e7a0c48de31e2ebc258.png",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.67baf29af14564cc5f35.svg",
+    "static/media/IIT_Main_Gate.png": "/static/media/IIT_Main_Gate.fdd1bfe6407bb9185155.png",
     "static/media/fa-duotone-900.eot": "/static/media/fa-duotone-900.933243d3f4a403d075ab.eot",
     "static/media/fa-duotone-900.ttf": "/static/media/fa-duotone-900.129970d20805c489d192.ttf",
     "static/media/fa-light-300.eot": "/static/media/fa-light-300.6618a8258fce3636f1cb.eot",
@@ -36,12 +35,12 @@
     "static/media/dripicons-v2.ttf": "/static/media/dripicons-v2.09c9c870ef8f9cffcc8f.ttf",
     "static/media/dripicons-v2.woff": "/static/media/dripicons-v2.f19dcc0358afed69d277.woff",
     "index.html": "/index.html",
-    "main.1381c29b.css.map": "/static/css/main.1381c29b.css.map",
-    "main.002ed484.js.map": "/static/js/main.002ed484.js.map",
+    "main.5d8d78c2.css.map": "/static/css/main.5d8d78c2.css.map",
+    "main.826fee51.js.map": "/static/js/main.826fee51.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1381c29b.css",
-    "static/js/main.002ed484.js"
+    "static/css/main.5d8d78c2.css",
+    "static/js/main.826fee51.js"
   ]
 }
