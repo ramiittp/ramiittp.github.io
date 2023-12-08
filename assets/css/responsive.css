@@ -443,7 +443,7 @@ background-position: 0 -100px;
 padding: 16px 27px;
 }
     .header-cta ul li{
-    font-size: 12px;
+    /* font-size: 12px; */
     padding-right: 0;
 }
 .menu-area::before {
@@ -1494,7 +1494,7 @@ box-shadow: 0 0 0 0;
   padding: 60px 34px 0;
 }
     .copyright-wrap .container {
-  padding: 50px 0;
+  padding: 20px 0;
 }
     .progress-outer li:first-child {
  text-align: center;
@@ -1911,7 +1911,7 @@ display: inline-block;
     width:100% !important;
 }
     .newslater-area img{
-        margin-bottom: 30px;'
+        margin-bottom: 30px;
     }
     .newslater-title .icon {
   margin-right: 0px;
@@ -2816,4 +2816,5 @@ margin: 0;
     .button-group button {
     margin: 0 2px;
 
+}
 }

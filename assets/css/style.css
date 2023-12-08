@@ -337,7 +337,7 @@ margin-left: 0px;
 }
 /* scrollUp */
 #scrollUp {
-	background: var(--primary-color);
+	background: rgb(134, 8, 8);
 	height: 45px;
 	width: 45px;
 	right: 50px;
@@ -11731,7 +11731,7 @@ color: #fff;
     right: 0;
     /* z-index: 1; */
 }
-
+/* 
 .logo-text{
     position: absolute;
     top:5px;
@@ -11747,4 +11747,4 @@ color: #fff;
     font-size: 1.2em;
     font-weight: 200;
     color: var(--primary-color);
-}
+} */
