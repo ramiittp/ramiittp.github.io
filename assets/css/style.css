@@ -3188,9 +3188,9 @@ bottom: 110px;
 .sbox div:nth-child(4) .services-box07 {
   background: #fff4f3;
 }
-.service-details-two {
+/* .service-details-two {
   margin-top: -234px;
-}
+} */
 /* steps area */
 .steps-area .section-title  p{
     color: #96bece;
@@ -11748,3 +11748,25 @@ color: #fff;
     font-weight: 200;
     color: var(--primary-color);
 } */
+
+.service-details-two{
+    position: relative;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+}
+
+@media screen and (min-width: 992px) {
+    .service-details-two{
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background-color: transparent !important;
+        background-image: none !important;
+    }
+}
+.about-area.about-p {
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+}
