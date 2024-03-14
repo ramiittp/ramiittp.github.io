@@ -6317,7 +6317,7 @@ position: relative;
     z-index: 2;
     text-align: left;
 }
-.gallery-image::before {
+/* .gallery-image::before {
     content: "\e035";
     font-family: "dripicons-v2" !important;
     position: absolute;
@@ -6334,12 +6334,12 @@ position: relative;
     width: 50px;
     text-align: center;
     line-height: 50px;
-}
+} */
 .gallery-image:hover::before {
     top: 50%;
     opacity: 1;
 }
-.gallery-image::after {
+/* .gallery-image::after {
     content: "";
     position: absolute;
     left: 0;
@@ -6349,7 +6349,7 @@ position: relative;
     background: var(--primary-color);
     opacity: 0;
     transition: .3s;
-}
+} */
 
 .gallery-image:hover::after {
 
@@ -11769,4 +11769,11 @@ color: #fff;
 }
 .about-area.about-p {
     background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+}
+
+.s-slider-content h4 {
+
+    color: white !important;
+    /* margin-top: 20% !important; */
+    text-align: bottom;
 }
